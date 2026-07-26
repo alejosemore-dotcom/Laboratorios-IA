@@ -41,7 +41,3 @@ Los documentos incluyen:
 - Pruebas realizadas
 - Análisis de resultados
 - Conclusiones
-
-## Aviso de seguridad
-
-Las credenciales, claves API y contraseñas fueron eliminadas de los documentos antes de publicarlos.
